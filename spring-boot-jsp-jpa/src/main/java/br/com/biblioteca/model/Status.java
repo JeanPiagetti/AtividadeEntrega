@@ -1,0 +1,6 @@
+package br.com.biblioteca.model;
+
+public enum Status {
+	ANALISE, EM_ANALISE, REALIZADA, ANALISE_APROVADA, PLANEJADO, EM_ANDAMENTO, ENCERRADO, CANCELADO
+
+}
